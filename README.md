@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/RandomThirdy/Snake-Game/main/images/preview.png" alt="Snake-Game Preview" width="600"/>
+    <img src="https://raw.githubusercontent.com/RandomThirdy/Snake-Game/main/assets/preview.png" alt="Snake-Game Preview" width="600"/>
 </p>
 
 <h1 align="center">🐍 Enhanced Snake Game</h1>
