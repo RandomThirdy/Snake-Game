@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/snake_1f40d.png" alt="Snake Icon" width="120"/>
+   <img src="https://raw.githubusercontent.com/RandomThirdy/Snake-Game/main/images/preview.png" alt="Snake-Game Preview" width="600"/>
 </p>
 
 <h1 align="center">🐍 Enhanced Snake Game</h1>
