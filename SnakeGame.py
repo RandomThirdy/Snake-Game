@@ -368,7 +368,6 @@ class SnakeGame:
                 # Draw with blinking effect if about to expire
                 if timer == 0 or timer - pygame.time.get_ticks() > 1000 or (pygame.time.get_ticks() // 200) % 2:
                     pygame.draw.ellipse(self.screen, (color[0]*pulse, color[1]*pulse, color[2]*pulse), rect)
-                    # Add sparkle effect
                     pygame.draw.line(self.screen, WHITE, 
                                    (food_x * GRID_SIZE + GRID_SIZE//2, food_y * GRID_SIZE + 2), 
                                    (food_x * GRID_SIZE + GRID_SIZE//2, food_y * GRID_SIZE + GRID_SIZE - 2), 2)
