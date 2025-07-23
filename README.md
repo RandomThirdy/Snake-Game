@@ -2,39 +2,112 @@
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/snake_1f40d.png" alt="Snake Icon" width="120"/>
 </p>
 
-# 🐍 Enhanced Snake Game
+<h1 align="center">🐍 Enhanced Snake Game</h1>
 
-A simple, feature-rich Snake game built with Python and Pygame.
+## Description
 
-## Features
+This repository contains the source code for **Enhanced Snake Game** — a feature-rich, classic Snake game built with Python and Pygame. Enjoy multiple difficulties, animated gameplay, obstacles, special food, sound effects, and high score tracking in a modern, interactive experience.
 
-- 🎮 Multiple difficulties (Easy, Medium, Hard)
-- 🧱 Obstacles and special food (bonus, speed, slow)
-- 🐍 Animated snake and food
-- 🔊 Sound effects
-- ⏸️ Pause and menu system
-- 🏆 High score tracking
+---
 
-## How to Run
+## 📚 Table of Contents
 
-1. Install Python and Pygame:
+- [✨ Features](#-features)
+- [🛠️ Technologies Used](#-technologies-used)
+- [🚀 How to Run](#-how-to-run)
+- [🎮 Controls](#-controls)
+- [🤝 Contributing](#-contributing)
+- [📬 Contact](#-contact)
+- [🔗 Links](#-links)
+- [👤 Author](#-author)
+
+---
+
+## ✨ Features
+
+- 🎮 **Multiple difficulties** (Easy, Medium, Hard)
+- 🧱 **Obstacles and special food** (bonus, speed, slow)
+- 🐍 **Animated snake and food**
+- 🔊 **Sound effects**
+- ⏸️ **Pause and menu system**
+- 🏆 **High score tracking**
+
+---
+
+## 🛠️ Technologies Used
+
+- 🐍 **Python 3** – Game logic and structure
+- 🎮 **Pygame** – Graphics, sound, and input handling
+
+---
+
+## 🚀 How to Run
+
+To get started with **Enhanced Snake Game**:
+
+1. **Clone the repository:**
+   
+   ```bash
+   git clone https://github.com/RandomThirdy/Snake-Game.git
+   ```
+
+2. **Navigate to the project folder:**
+   
+   ```bash
+   cd Snake-Game
+   ```
+
+3. **Install dependencies:**
+   
    ```bash
    pip install pygame
    ```
-2. Save the code to a file (e.g., `snake_game.py`).
-3. Run the game:
+
+4. **Run the game:**
+   
    ```bash
    python snake_game.py
    ```
 
-## Controls
+---
 
-- ⬅️➡️⬆️⬇️ Arrow keys: Move snake
-- P: Pause/Resume
-- R: Restart (when game over)
-- M: Menu (when game over)
-- Q: Quit
+## 🎮 Controls
 
-## Author
+- ⬅️➡️⬆️⬇️ **Arrow keys:** Move snake
+- **P:** Pause/Resume
+- **R:** Restart (when game over)
+- **M:** Menu (when game over)
+- **Q:** Quit
 
-- 🐙 GitHub: [@RandomThirdy](https://github.com/RandomThirdy)  
+---
+
+## 🤝 Contributing
+
+Feedback and suggestions are welcome!  
+Feel free to open issues for bugs or ideas to improve the game.
+
+---
+
+## 📬 Contact
+
+For questions or feedback, reach out via:
+
+- 📧 Email: [angelitodecatoriaa@gmail.com](mailto:angelitodecatoriaa@gmail.com)
+- 💬 Facebook: [angelo.decatoria.5](https://facebook.com/angelo.decatoria.5)
+- 📸 Instagram: [@hmptyy_dmpty](https://instagram.com/hmptyy_dmpty)
+- 🎵 TikTok: [@terdeh](https://www.tiktok.com/@terdeh)
+- 💼 LinkedIn: [in/angelitodecatoria](https://linkedin.com/in/angelitodecatoria)
+
+---
+
+## 🔗 Links
+
+- 📂 [GitHub Repository](https://github.com/RandomThirdy/Snake-Game)
+
+---
+
+## 👤 Author
+
+**Random Thirdy (Angelito Decatoria III)**
+
+- 🐙 GitHub: [@RandomThirdy](https://github.com/RandomThirdy)
